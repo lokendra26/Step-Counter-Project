@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">Profile</string>
+</resources>
